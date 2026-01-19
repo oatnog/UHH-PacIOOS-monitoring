@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sunrise.soest.hawaii.edu.ico",
     "slug": "hkkh-sort",
     "status": "up",
-    "uptime": "2.10%",
-    "uptimeDay": "2.10%",
-    "uptimeWeek": "2.10%",
-    "uptimeMonth": "2.10%",
-    "uptimeYear": "2.10%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 605,
     "timeDay": 605,
     "timeWeek": 605,
     "timeMonth": 605,
     "timeYear": 605,
-    "dailyMinutesDown": {
-      "2026-01-19": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "hkkh RAD",
