@@ -1,31 +1,26 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: oatnog # Your GitHub organization or username, where this repository lives
+repo: UHH-PacIOOS-monitoring # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: hppk SORT
+    url: http://sunrise.soest.hawaii.edu/data/hppk/latest_hppk.SORT_ant.gif
+  - name: hppk RAD
+    url: http://sunrise.soest.hawaii.edu/data/hppk/latest_hppk.RAD_DirF_anim.gif
+  - name: hkkh SORT
+    url: http://sunrise.soest.hawaii.edu/data/hppk/latest_hkkh.SORT_ant.gif
+  - name: hppk RAD
+    url: http://sunrise.soest.hawaii.edu/data/hkkh/latest_hkkh.RAD_Beam_anim.gif
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  # cname: demo.upptime.js.org
+  baseUrl: /UHH-PacIOOS-monitoring
+  logoUrl: https://raw.githubusercontent.com/UHH-PacIOOS-monitoring/assets/pacioos-logo.png
+  name: PacIOOS Website Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Are my buoys sending their data?
   navbar:
     - title: Status
       href: /
