@@ -55,11 +55,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sunrise.soest.hawaii.edu.ico",
     "slug": "hppk-rad",
     "status": "up",
-    "uptime": "95.30%",
+    "uptime": "95.31%",
     "uptimeDay": "82.75%",
     "uptimeWeek": "84.90%",
     "uptimeMonth": "87.67%",
-    "uptimeYear": "95.30%",
+    "uptimeYear": "95.31%",
     "time": 538,
     "timeDay": 733,
     "timeWeek": 774,
@@ -105,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sunrise.soest.hawaii.edu.ico",
     "slug": "hkkh-sort",
     "status": "up",
-    "uptime": "95.33%",
-    "uptimeDay": "84.42%",
-    "uptimeWeek": "85.72%",
-    "uptimeMonth": "87.92%",
-    "uptimeYear": "95.33%",
+    "uptime": "95.30%",
+    "uptimeDay": "85.36%",
+    "uptimeWeek": "85.85%",
+    "uptimeMonth": "87.95%",
+    "uptimeYear": "95.30%",
     "time": 1421,
     "timeDay": 1558,
     "timeWeek": 1669,
     "timeMonth": 1481,
     "timeYear": 1421,
     "dailyMinutesDown": {
-      "2026-05-10": 225,
+      "2026-05-10": 211,
       "2026-05-09": 258,
       "2026-05-08": 78,
       "2026-05-07": 314,
@@ -146,7 +146,8 @@
       "2026-04-03": 218,
       "2026-04-02": 128,
       "2026-04-01": 119,
-      "2026-03-31": 113
+      "2026-03-31": 175,
+      "2026-03-30": 19
     }
   },
   {
@@ -155,18 +156,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sunrise.soest.hawaii.edu.ico",
     "slug": "hkkh-rad",
     "status": "up",
-    "uptime": "95.40%",
-    "uptimeDay": "86.10%",
-    "uptimeWeek": "86.35%",
-    "uptimeMonth": "88.12%",
-    "uptimeYear": "95.40%",
+    "uptime": "95.36%",
+    "uptimeDay": "86.71%",
+    "uptimeWeek": "86.44%",
+    "uptimeMonth": "88.14%",
+    "uptimeYear": "95.36%",
     "time": 481,
     "timeDay": 739,
     "timeWeek": 721,
     "timeMonth": 550,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2026-05-10": 200,
+      "2026-05-10": 191,
       "2026-05-09": 244,
       "2026-05-08": 73,
       "2026-05-07": 310,
@@ -196,7 +197,8 @@
       "2026-04-03": 217,
       "2026-04-02": 128,
       "2026-04-01": 119,
-      "2026-03-31": 112
+      "2026-03-31": 174,
+      "2026-03-30": 18
     }
   }
 ]
