@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sunrise.soest.hawaii.edu.ico",
     "slug": "hppk-sort",
     "status": "down",
-    "uptime": "86.21%",
-    "uptimeDay": "34.03%",
-    "uptimeWeek": "29.40%",
-    "uptimeMonth": "46.97%",
-    "uptimeYear": "86.21%",
+    "uptime": "86.13%",
+    "uptimeDay": "34.04%",
+    "uptimeWeek": "28.98%",
+    "uptimeMonth": "46.77%",
+    "uptimeYear": "86.13%",
     "time": 1459,
     "timeDay": 1124,
-    "timeWeek": 1351,
-    "timeMonth": 1398,
+    "timeWeek": 1348,
+    "timeMonth": 1397,
     "timeYear": 1459,
     "dailyMinutesDown": {
       "2026-05-09": 311,
@@ -63,7 +63,7 @@
       "2026-06-23": 1037,
       "2026-06-24": 628,
       "2026-06-25": 1024,
-      "2026-06-26": 556
+      "2026-06-26": 762
     }
   },
   {
@@ -71,17 +71,17 @@
     "url": "http://sunrise.soest.hawaii.edu/data/hppk/latest_hppk.RAD_DirF_anim.gif",
     "icon": "https://icons.duckduckgo.com/ip3/sunrise.soest.hawaii.edu.ico",
     "slug": "hppk-rad",
-    "status": "down",
-    "uptime": "86.39%",
-    "uptimeDay": "34.70%",
-    "uptimeWeek": "30.07%",
-    "uptimeMonth": "47.60%",
-    "uptimeYear": "86.39%",
-    "time": 691,
-    "timeDay": 765,
-    "timeWeek": 984,
-    "timeMonth": 1212,
-    "timeYear": 691,
+    "status": "up",
+    "uptime": "86.31%",
+    "uptimeDay": "34.72%",
+    "uptimeWeek": "29.65%",
+    "uptimeMonth": "47.39%",
+    "uptimeYear": "86.31%",
+    "time": 692,
+    "timeDay": 923,
+    "timeWeek": 986,
+    "timeMonth": 1218,
+    "timeYear": 692,
     "dailyMinutesDown": {
       "2026-05-08": 83,
       "2026-05-09": 291,
@@ -130,7 +130,7 @@
       "2026-06-23": 1027,
       "2026-06-24": 619,
       "2026-06-25": 1014,
-      "2026-06-26": 547
+      "2026-06-26": 753
     }
   },
   {
@@ -138,16 +138,16 @@
     "url": "http://sunrise.soest.hawaii.edu/data/hkkh/latest_hkkh.SORT_ant.gif",
     "icon": "https://icons.duckduckgo.com/ip3/sunrise.soest.hawaii.edu.ico",
     "slug": "hkkh-sort",
-    "status": "down",
-    "uptime": "86.42%",
-    "uptimeDay": "35.37%",
-    "uptimeWeek": "30.77%",
-    "uptimeMonth": "48.20%",
-    "uptimeYear": "86.42%",
+    "status": "up",
+    "uptime": "86.34%",
+    "uptimeDay": "35.39%",
+    "uptimeWeek": "30.35%",
+    "uptimeMonth": "47.98%",
+    "uptimeYear": "86.34%",
     "time": 1626,
-    "timeDay": 1221,
+    "timeDay": 1280,
     "timeWeek": 2653,
-    "timeMonth": 2143,
+    "timeMonth": 2133,
     "timeYear": 1626,
     "dailyMinutesDown": {
       "2026-05-06": 153,
@@ -199,7 +199,7 @@
       "2026-06-23": 1012,
       "2026-06-24": 610,
       "2026-06-25": 1007,
-      "2026-06-26": 537
+      "2026-06-26": 743
     }
   },
   {
@@ -207,17 +207,17 @@
     "url": "http://sunrise.soest.hawaii.edu/data/hkkh/latest_hkkh.RAD_Beam_anim.gif",
     "icon": "https://icons.duckduckgo.com/ip3/sunrise.soest.hawaii.edu.ico",
     "slug": "hkkh-rad",
-    "status": "down",
-    "uptime": "86.63%",
-    "uptimeDay": "36.04%",
-    "uptimeWeek": "31.48%",
-    "uptimeMonth": "48.81%",
-    "uptimeYear": "86.63%",
-    "time": 671,
-    "timeDay": 681,
-    "timeWeek": 2102,
-    "timeMonth": 1467,
-    "timeYear": 671,
+    "status": "up",
+    "uptime": "86.55%",
+    "uptimeDay": "36.06%",
+    "uptimeWeek": "31.06%",
+    "uptimeMonth": "48.58%",
+    "uptimeYear": "86.55%",
+    "time": 672,
+    "timeDay": 873,
+    "timeWeek": 2110,
+    "timeMonth": 1472,
+    "timeYear": 672,
     "dailyMinutesDown": {
       "2026-05-06": 138,
       "2026-05-07": 310,
@@ -267,7 +267,7 @@
       "2026-06-23": 998,
       "2026-06-24": 600,
       "2026-06-25": 998,
-      "2026-06-26": 527
+      "2026-06-26": 733
     }
   }
 ]
