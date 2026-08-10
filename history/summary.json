@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sunrise.soest.hawaii.edu.ico",
     "slug": "hppk-sort",
     "status": "down",
-    "uptime": "88.46%",
-    "uptimeDay": "75.60%",
-    "uptimeWeek": "73.63%",
-    "uptimeMonth": "91.72%",
-    "uptimeYear": "88.46%",
+    "uptime": "88.45%",
+    "uptimeDay": "75.13%",
+    "uptimeWeek": "73.37%",
+    "uptimeMonth": "91.66%",
+    "uptimeYear": "88.45%",
     "time": 1463,
     "timeDay": 1229,
     "timeWeek": 1497,
@@ -58,7 +58,7 @@
       "2026-08-07": 245,
       "2026-08-08": 351,
       "2026-08-09": 337,
-      "2026-08-10": 15
+      "2026-08-10": 41
     }
   },
   {
@@ -67,11 +67,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sunrise.soest.hawaii.edu.ico",
     "slug": "hppk-rad",
     "status": "down",
-    "uptime": "88.47%",
-    "uptimeDay": "77.95%",
-    "uptimeWeek": "75.08%",
-    "uptimeMonth": "92.15%",
-    "uptimeYear": "88.47%",
+    "uptime": "88.46%",
+    "uptimeDay": "77.14%",
+    "uptimeWeek": "74.82%",
+    "uptimeMonth": "92.09%",
+    "uptimeYear": "88.46%",
     "time": 754,
     "timeDay": 858,
     "timeWeek": 898,
@@ -121,7 +121,7 @@
       "2026-08-07": 215,
       "2026-08-08": 321,
       "2026-08-09": 308,
-      "2026-08-10": 10
+      "2026-08-10": 36
     }
   },
   {
@@ -130,11 +130,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sunrise.soest.hawaii.edu.ico",
     "slug": "hkkh-sort",
     "status": "down",
-    "uptime": "88.22%",
-    "uptimeDay": "81.06%",
-    "uptimeWeek": "76.46%",
-    "uptimeMonth": "92.56%",
-    "uptimeYear": "88.22%",
+    "uptime": "88.21%",
+    "uptimeDay": "79.91%",
+    "uptimeWeek": "76.20%",
+    "uptimeMonth": "92.50%",
+    "uptimeYear": "88.21%",
     "time": 1652,
     "timeDay": 1296,
     "timeWeek": 1784,
@@ -186,7 +186,7 @@
       "2026-08-07": 201,
       "2026-08-08": 281,
       "2026-08-09": 268,
-      "2026-08-10": 5
+      "2026-08-10": 31
     }
   },
   {
@@ -195,11 +195,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sunrise.soest.hawaii.edu.ico",
     "slug": "hkkh-rad",
     "status": "down",
-    "uptime": "88.39%",
-    "uptimeDay": "83.08%",
-    "uptimeWeek": "77.51%",
-    "uptimeMonth": "92.91%",
-    "uptimeYear": "88.39%",
+    "uptime": "88.38%",
+    "uptimeDay": "81.60%",
+    "uptimeWeek": "77.25%",
+    "uptimeMonth": "92.85%",
+    "uptimeYear": "88.38%",
     "time": 703,
     "timeDay": 829,
     "timeWeek": 816,
@@ -251,7 +251,7 @@
       "2026-08-07": 186,
       "2026-08-08": 257,
       "2026-08-09": 243,
-      "2026-08-10": 0
+      "2026-08-10": 26
     }
   }
 ]
