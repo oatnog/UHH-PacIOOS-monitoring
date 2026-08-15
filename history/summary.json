@@ -6,9 +6,9 @@
     "slug": "hppk-sort",
     "status": "down",
     "uptime": "91.62%",
-    "uptimeDay": "77.06%",
-    "uptimeWeek": "76.74%",
-    "uptimeMonth": "87.97%",
+    "uptimeDay": "77.02%",
+    "uptimeWeek": "76.73%",
+    "uptimeMonth": "87.96%",
     "uptimeYear": "91.62%",
     "time": 1456,
     "timeDay": 995,
@@ -64,8 +64,8 @@
     "slug": "hppk-rad",
     "status": "down",
     "uptime": "91.07%",
-    "uptimeDay": "78.73%",
-    "uptimeWeek": "78.23%",
+    "uptimeDay": "78.70%",
+    "uptimeWeek": "78.22%",
     "uptimeMonth": "88.60%",
     "uptimeYear": "91.07%",
     "time": 756,
@@ -124,7 +124,7 @@
     "slug": "hkkh-sort",
     "status": "down",
     "uptime": "90.31%",
-    "uptimeDay": "80.41%",
+    "uptimeDay": "80.37%",
     "uptimeWeek": "79.79%",
     "uptimeMonth": "89.18%",
     "uptimeYear": "90.31%",
@@ -176,7 +176,7 @@
       "2026-08-12": 374,
       "2026-08-13": 219,
       "2026-08-14": 276,
-      "2026-08-15": 5
+      "2026-08-15": 6
     }
   },
   {
@@ -186,7 +186,7 @@
     "slug": "hkkh-rad",
     "status": "down",
     "uptime": "90.47%",
-    "uptimeDay": "82.09%",
+    "uptimeDay": "82.05%",
     "uptimeWeek": "81.04%",
     "uptimeMonth": "89.69%",
     "uptimeYear": "90.47%",
@@ -238,7 +238,7 @@
       "2026-08-12": 365,
       "2026-08-13": 204,
       "2026-08-14": 258,
-      "2026-08-15": 0
+      "2026-08-15": 1
     }
   }
 ]
