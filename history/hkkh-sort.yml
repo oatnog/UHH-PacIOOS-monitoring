@@ -1,7 +1,7 @@
 url: http://sunrise.soest.hawaii.edu/data/hkkh/latest_hkkh.SORT_ant.gif
-status: up
-code: 200
-responseTime: 1750
-lastUpdated: 2026-08-17T23:11:04.973Z
+status: down
+code: 404
+responseTime: 172
+lastUpdated: 2026-08-18T01:14:27.380Z
 startTime: 2026-01-19T22:44:55.361Z
 generator: Upptime <https://github.com/upptime/upptime>
