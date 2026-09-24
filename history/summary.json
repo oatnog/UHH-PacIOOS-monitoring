@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sunrise.soest.hawaii.edu.ico",
     "slug": "hppk-sort",
     "status": "down",
-    "uptime": "82.72%",
-    "uptimeDay": "68.47%",
+    "uptime": "82.69%",
+    "uptimeDay": "57.75%",
     "uptimeWeek": "67.15%",
     "uptimeMonth": "16.20%",
-    "uptimeYear": "82.72%",
+    "uptimeYear": "82.69%",
     "time": 1432,
     "timeDay": 1414,
     "timeWeek": 1271,
@@ -82,7 +82,7 @@
       "2026-09-21": 286,
       "2026-09-22": 552,
       "2026-09-23": 473,
-      "2026-09-24": 71
+      "2026-09-24": 225
     }
   },
   {
@@ -91,11 +91,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sunrise.soest.hawaii.edu.ico",
     "slug": "hppk-rad",
     "status": "down",
-    "uptime": "82.19%",
-    "uptimeDay": "69.48%",
+    "uptime": "82.15%",
+    "uptimeDay": "58.75%",
     "uptimeWeek": "67.82%",
     "uptimeMonth": "16.37%",
-    "uptimeYear": "82.19%",
+    "uptimeYear": "82.15%",
     "time": 754,
     "timeDay": 930,
     "timeWeek": 852,
@@ -171,7 +171,7 @@
       "2026-09-21": 282,
       "2026-09-22": 538,
       "2026-09-23": 463,
-      "2026-09-24": 66
+      "2026-09-24": 220
     }
   },
   {
@@ -180,11 +180,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sunrise.soest.hawaii.edu.ico",
     "slug": "hkkh-sort",
     "status": "down",
-    "uptime": "82.74%",
-    "uptimeDay": "70.48%",
+    "uptime": "82.71%",
+    "uptimeDay": "59.75%",
     "uptimeWeek": "69.76%",
     "uptimeMonth": "16.84%",
-    "uptimeYear": "82.74%",
+    "uptimeYear": "82.71%",
     "time": 1609,
     "timeDay": 1550,
     "timeWeek": 1357,
@@ -260,7 +260,7 @@
       "2026-09-21": 277,
       "2026-09-22": 484,
       "2026-09-23": 363,
-      "2026-09-24": 61
+      "2026-09-24": 216
     }
   },
   {
@@ -269,11 +269,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sunrise.soest.hawaii.edu.ico",
     "slug": "hkkh-rad",
     "status": "down",
-    "uptime": "82.79%",
-    "uptimeDay": "71.49%",
+    "uptime": "82.75%",
+    "uptimeDay": "60.76%",
     "uptimeWeek": "69.15%",
     "uptimeMonth": "16.72%",
-    "uptimeYear": "82.79%",
+    "uptimeYear": "82.75%",
     "time": 706,
     "timeDay": 836,
     "timeWeek": 813,
@@ -349,7 +349,7 @@
       "2026-09-21": 272,
       "2026-09-22": 509,
       "2026-09-23": 444,
-      "2026-09-24": 56
+      "2026-09-24": 211
     }
   }
 ]
