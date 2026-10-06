@@ -1,7 +1,7 @@
 url: http://sunrise.soest.hawaii.edu/data/hkkh/latest_hkkh.RAD_Beam_anim.gif
-status: up
-code: 200
-responseTime: 940
-lastUpdated: 2026-10-05T08:57:01.271Z
+status: down
+code: 404
+responseTime: 238
+lastUpdated: 2026-10-06T02:34:45.980Z
 startTime: 2026-01-19T22:48:29.072Z
 generator: Upptime <https://github.com/upptime/upptime>
